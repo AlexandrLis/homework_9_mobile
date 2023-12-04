@@ -1,0 +1,319 @@
+.header{
+    min-width: 380px;
+    background-color: black;
+    height: 74px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.left_top_header{
+    position: absolute;
+    left: 32px;
+}
+
+.lupa{
+    position: absolute;
+    left: 117px;
+}
+
+.right_top_header{
+    position: absolute;
+    right: 41px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.head{
+    min-width: 380px;
+    background-color: rgb(254, 229, 233);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 375px;
+}
+
+.biggest_man{
+    width: 386px;
+    height: 367px;
+}
+
+.fashion{
+    width: 283px;
+    height: 78px;
+    margin-left: 10px;
+}
+
+
+
+
+
+.one_line{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.one{
+    margin-top: 20px;
+    filter: brightness(50%);
+}
+
+
+.two{
+    text-align: center;
+    margin-top: 20px;
+    filter: brightness(50%);
+}
+
+.threee{
+    text-align: center;
+    margin-top: 20px;
+    filter: brightness(50%);
+}
+
+.four{
+    text-align: center;
+    margin-top: 20px;
+    min-width: 100px;
+
+} 
+
+.width{
+    width: 360px;
+    filter: brightness(50%);
+}
+
+
+.text{
+    text-align: center;
+    margin-top: 60px;
+}
+
+
+
+.many_pictures{
+    text-align: center;
+}
+
+
+.one{
+    margin-top: 30px;
+}
+
+.two{
+    margin-top: 30px;
+}
+
+.two_picture{
+    filter: brightness(50%);
+}
+
+.three{
+    margin-top: 30px;
+}
+
+.four{
+    margin-top: 30px;
+}
+
+.five{
+    margin-top: 30px;
+}
+
+.six{
+    margin-top: 30px;
+}
+
+.bottom{
+    border: 3px solid rgb(250, 150, 167);
+    margin: 30px auto auto;
+    width: 350px;
+    height: 70px;
+    color: rgb(250, 150, 167);
+}
+
+.bottom1{
+    text-align: center;
+    margin-top: 17px;
+}
+
+
+.top_footer{
+    background-color: black;
+    min-height: 700px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.top_footer_top{
+    margin-top: 40px;
+}
+
+.pink_pictures{
+    margin-top: 60px;
+}
+
+.pink_pictures_bottom{
+    margin-top: 60px;
+}
+
+.h2{
+    text-align: center;
+    color: gray;
+}
+
+.paragraph{
+    color: rgb(210, 208, 208);
+    text-align: center;
+}
+
+.paragraph_bottom{
+    color: rgb(210, 208, 208);
+    text-align: center;
+    bottom: 20px;
+}
+
+
+
+.center_footer{
+    text-align: center;
+    min-height: 600px;
+}
+
+
+.phon{
+    max-width: 767px;
+    min-height: 600px;
+    opacity: 0.4;
+    position: relative;
+}
+
+
+.par1{
+
+    text-align: center;
+    margin-top: -300px;
+}
+
+.SUBSCRIBE{
+    margin-top: 60px;
+    text-align: center;
+}
+
+.par2{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.bott{
+    margin-top: 40px;
+}
+
+
+
+
+
+
+.bottom_footer{
+       min-height: 143px;
+       background-color: black; 
+       text-align: center;
+}
+
+.box{
+    padding-top: 40px;
+}
+
+.foot{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+.on:hover{
+    filter: invert(74%) sepia(58%) saturate(3054%) hue-rotate(312deg) brightness(111%) contrast(88%);
+}
+
+.tw:hover{
+    filter: invert(74%) sepia(58%) saturate(3054%) hue-rotate(312deg) brightness(111%) contrast(88%);
+
+}
+
+.th:hover{
+    filter: invert(74%) sepia(58%) saturate(3054%) hue-rotate(312deg) brightness(111%) contrast(88%);
+
+}
+
+.fo:hover{
+    filter: invert(74%) sepia(58%) saturate(3054%) hue-rotate(312deg) brightness(111%) contrast(88%);
+    
+}
+
+
+
+
+
+
+
+p{
+    margin: 10px auto auto;
+    width: 359px;
+    text-align: left;
+}
+
+.price{
+    text-align: left;
+    color: rgb(250, 150, 167);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 450px){
+    .fashion{
+        width: 220px;
+        height: 55px;
+    }
+
+    .column_line_pink{
+        height: 55px;
+    }
+}
